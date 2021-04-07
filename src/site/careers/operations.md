@@ -37,20 +37,20 @@ As an operations manager working at Oxide, you will:
 - **Develop strategic relationships with supply chain partners** from
   manufacturers to distributors, with a focus on pricing negotiation, and
   mitigating supply risk via various techniques (inventory control, dual
-  sourcing components, long lead forecasting, capacity planning, etc)
+  sourcing components, long lead forecasting, capacity planning, etc).
 
 - **Nimbly manage projects large and small** as we scale our operations across
   products, services, customers, distributors, and suppliers while optimizing
-  cost, schedule, and performance tradeoffs to achieve strategic intent
+  cost, schedule, and performance tradeoffs to achieve strategic intent.
 
 - **Make order fulfillment part of what our customers love about us** with
   rigorous attention to detail, proactive risk management and contingency
   planning, and responding with an appropriate sense of urgency to emerging
-  issues
+  issues.
 
 - **Be ready to represent Oxide to our customers** with an understanding of
   the various factors driving their order and delivery timelines and how we
-  can harmonize our operations to exceed their expectations
+  can harmonize our operations to exceed their expectations.
 
 - **Contribute** to other, non-ops specific areas of the product that interest
   you.
